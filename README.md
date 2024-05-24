@@ -60,8 +60,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GuiMilheiro/GuiMilheiro/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/GuiMilheiro/GuiMilheiro/blob/output/github-contribution-grid-snake.svg)
 
 ###
