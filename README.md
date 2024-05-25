@@ -62,3 +62,6 @@
 </div>
 
 ###
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GuiMilheiro.GuiMilheiro&"  />
+</div>
