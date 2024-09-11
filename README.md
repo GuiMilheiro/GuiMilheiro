@@ -1,11 +1,6 @@
 <h2 align="left">Olá 👋! Meu nome é Gui e sou um estudante de engenharia de Software, do Brasil 🇧🇷</h2>
 
 
-###
-
-<img align="right" height="200" src="https://cdn.picrew.me/shareImg/org/202405/1473879_uPesK8lw.png"  />
-
-###
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
