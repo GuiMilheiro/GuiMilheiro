@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Gui e sou um estudante de engenharia de Software, do Brasil 🇧🇷</h2>
+<h2 align="left">Olá, meu nome é Guilherme e sou um estudante de engenharia de Software, do Brasil 🇧🇷 👋!</h2>
 
 
 
