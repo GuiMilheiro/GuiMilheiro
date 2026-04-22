@@ -1,8 +1,8 @@
-<h2 align="left">Olá, meu nome é Guilherme e sou um estudante de Engenharia de Software na FIAP 🎓 </h2>
+<h2 align="left">Olá, meu nome é Guilherme e sou um estudante de Engenharia de Software na FIAP 🎓 👋!</h2>
 
 <p align="left">
   Atualmente no 7º semestre, focado em <b>Desenvolvimento Back-end</b>, <b>Automação</b> e <b>Arquitetura de Sistemas</b>. 
-  Tenho experiência prática com Python, extração de dados e integração de sistemas IoT.
+  Utilizo a tecnologia para resolver problemas complexos e otimizar processos manuais.
 </p>
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -13,12 +13,21 @@
   <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode,pycharm,bootstrap" alt="Ferramentas" />
 </div>
 
-### 📂 Projetos em Destaque
+### 📂 Projetos em Destaque (Espelho do Currículo)
 
-* 🤖 **Reconhecimento Facial:** Detecção em tempo real utilizando Python e OpenCV.
-* 🌐 **Web Scraping Avançado:** Automação de coleta de dados e integração com APIs REST.
-* 🔐 **Cofre IoT:** Sistema de segurança embarcado com logs em tempo real (Arduino/C++).
-* ⚙️ **API RESTful:** Infraestrutura back-end escalável focada em operações CRUD assíncronas.
+| Projeto | Descrição | Tech Stack |
+| :--- | :--- | :--- |
+| **🤖 Reconhecimento Facial** | Detecção em tempo real e processamento de imagens. | `Python`, `OpenCV` |
+| **🌐 Web Scraping** | Automação de coleta de dados de grande escala e APIs. | `Python`, `BeautifulSoup` |
+| **🔐 Cofre IoT** | Sistema de segurança embarcado com logs em tempo real. | `C++`, `Arduino`, `Wokwi` |
+| **⚙️ API RESTful** | Infraestrutura back-end escalável para operações CRUD. | `FastAPI`, `SQL` |
+
+### 📈 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuiMilheiro&show_icons=true&theme=vue-dark&locale=pt-br&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiMilheiro&layout=compact&theme=vue-dark&hide_border=true&locale=pt-br" height="150" alt="languages graph" />
+</div>
 
 ### 📫 Vamos nos conectar?
 
@@ -32,12 +41,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiMilheiro&show_icons=true&theme=vue-dark&locale=pt-br&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiMilheiro&layout=compact&theme=vue-dark&hide_border=true&locale=pt-br" height="150" alt="languages graph" />
-</div>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GuiMilheiro.GuiMilheiro&"  />
 </div>
