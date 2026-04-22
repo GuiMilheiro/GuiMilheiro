@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu nome é Guilherme e sou um estudante de Engenharia de Software na FIAP 🎓 👋!</h2>
+<h2 align="left">Olá, meu nome é Guilherme e sou um estudante de Engenharia de Software na FIAP 🎓 </h2>
 
 <p align="left">
   Atualmente no 7º semestre, focado em <b>Desenvolvimento Back-end</b>, <b>Automação</b> e <b>Arquitetura de Sistemas</b>. 
