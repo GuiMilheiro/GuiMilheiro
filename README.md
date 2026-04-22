@@ -8,9 +8,9 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,java,cs,js" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,java,cs,js" alt="Linguagens" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode,intellij,pycharm" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode,pycharm,bootstrap" alt="Ferramentas" />
 </div>
 
 ### 📂 Projetos em Destaque
